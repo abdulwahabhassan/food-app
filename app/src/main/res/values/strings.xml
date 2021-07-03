@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Food App</string>
+    <string name="food_title_placeholder">Food Title</string>
+    <string name="food_description_placeholder">Food description. Foods that naturally are nutrient-rich include fruits and vegetables. Lean meats, fish, whole grains, dairy, legumes, nuts, and seeds also are high in nutrients.</string>
 </resources>
