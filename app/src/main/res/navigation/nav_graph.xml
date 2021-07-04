@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/foodMenu"
-        android:name="com.devhassan.foodapp.FoodMenu"
+        android:name="com.devhassan.foodapp.FoodMenuFragment"
         android:label="Menu"
         tools:layout="@layout/fragment_food_menu" />
 </navigation>
